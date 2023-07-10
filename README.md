@@ -9,7 +9,6 @@ The FNB Bank Statement Summarizer App is a Flutter application that connects to 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -29,13 +28,13 @@ The FNB Bank Statement Summarizer App simplifies the process of reviewing and un
 2. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/fnb-bank-statement-app.git
+   git clone https://github.com/Abram-Magwai/bsas-mobile.git
    ```
 
 3. Navigate to the project directory:
 
    ```shell
-   cd fnb-bank-statement-app
+   cd bsas-mobile
    ```
 
 4. Fetch the project dependencies:
@@ -46,8 +45,7 @@ The FNB Bank Statement Summarizer App simplifies the process of reviewing and un
 
 5. Connect the app to the API:
 
-   - Open the `lib/api/api_service.dart` file.
-   - Replace the `API_BASE_URL` constant with the URL of your deployed FNB Bank Statement Summarizer API.
+   - https://github.com/Abram-Magwai/BSAS-API.git
 
 6. Run the app:
 
@@ -65,8 +63,6 @@ The FNB Bank Statement Summarizer App simplifies the process of reviewing and un
 4. Use the filtering and visualization features to gain insights into your financial activities.
 5. Customize categories, add manual tags, or perform other actions to enhance your experience.
 - NB: some features will be implemented as time goes on.
-
-For more information on using the app, refer to the [User Guide](./docs/user-guide.md).
 
 ## Contributing
 
